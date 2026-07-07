@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">📍 I'm currently working in Istanbul, Turkiye </p>
+<p align="center">📍 Frontend Engineer · Istanbul, Turkey </p>
 
 ###
 
