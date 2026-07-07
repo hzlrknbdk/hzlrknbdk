@@ -59,8 +59,16 @@
 | **Testing**      | Jest · React Testing Library · Vue Test Utils · ESLint |
 | **DevOps**       | Docker · GitLab CI · Jenkins · Jira                    |
 | **i18n**         | i18n · next-intl                                       |
+| **AI Tools**     | Claude Code · Cursor · Codex · Prompt Engineering      |
 
 </details>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude_Code-Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Cursor-AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=94C749" alt="Cursor" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+<img src="https://img.shields.io/badge/Prompt_Engineer-94C749?style=for-the-badge&labelColor=1a1a1a" alt="Prompt Engineer" />
 
 </div>
 
