@@ -9,11 +9,23 @@
 
 ###
 
-<p align="center">📍 Frontend Engineer · Istanbul, Turkey </p>
+<p align="center">📍 Istanbul, Turkey</p>
 
 ###
 
-<p align="center"> 💌  Say hi! hazalrukenbudak@gmail.com</p>
+<p align="center">💌 Say hi! <a href="mailto:hazalrukenbudak@gmail.com">hazalrukenbudak@gmail.com</a></p>
+
+###
+
+<p align="center"> 👩🏼‍💻 <strong>Experience</strong></p>
+
+<p align="center">
+  <strong> @adessoTurkey</strong> · <em>Aug 2021 to Jan 2025</em>
+</p>
+
+<p align="center">
+  <strong>Pusula Enterprise Business Solutions</strong> · <em>Dec 2019 to Jul 2021</em>
+</p>
 
 ###
 
@@ -23,13 +35,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hzlrknbdk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo"  />
   </a>
   <a href="hazalrukenbudak@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="25" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@hazalrukenbudak" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="30" height="25" alt="medium logo"  />
   </a>
 </div>
 
