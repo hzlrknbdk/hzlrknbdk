@@ -4,7 +4,7 @@
 </div>
 
   <a href="https://github.com/hzlrknbdk">
-    <img src="https://komarev.com/ghpvc/?username=ishandutta2007&label=Profile%20Views&base=0000&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=hzlrknbdk&label=Profile%20Views&base=0000&color=0e75b6&style=flat" />
   </a> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geist+Pixel&weight=500&size=50&pause=1000&color=94C749&center=true&vCenter=true&width=1000&height=100&lines=Senior+Software+Engineer" alt="Typing SVG" /></a>
