@@ -1,7 +1,6 @@
 <div align="right">
     <a href="https://github.com/hzlrknbdk">
-    <img src="https://komarev.com/ghpvc/?username=hzlrknbdk&label=Profile%20Views&base=0000&color=green&style=for-the-badge" />
-    </a> 
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=untitled&left_text=Profile%20views&left_color=%2394c749&right_color=%23000000&logo=github&radius=5&height=25" alt="visitor badge"/>
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Geist+Pixel&weight=500&size=50&pause=1000&color=94C749&center=true&vCenter=true&width=1000&height=100&lines=Senior+Software+Engineer" alt="Typing SVG" /></a>
@@ -29,10 +28,6 @@
 </p>
 
 ###
-
-<div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=untitled&left_text=Profile%20views&left_color=%2394c749&right_color=%23000000&logo=github&radius=5&height=25" alt="visitor badge"/>
-</div>
 
 <p align="center"> ✨ Connect with me ✨ </p>
 
