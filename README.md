@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=untitled&left_text=Profile%20views&left_color=%2394c749&right_color=%23000000&format=true&logo=github&radius=5&height=25" alt="visitor badge"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=untitled&left_text=Profile%20views&left_color=%2394c749&right_color=%23000000&logo=github&radius=5&height=25" alt="visitor badge"/>
 </div>
 
 <p align="center"> ✨ Connect with me ✨ </p>
